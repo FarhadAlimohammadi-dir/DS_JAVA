@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MergeSortR {
+public class nFactoreil {
 
 
 
